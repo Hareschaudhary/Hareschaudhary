@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Haresh
 
-<!--
-**Hareschaudhary/Hareschaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🎨 Frontend: HTML, CSS, SCSS, Bootstrap, React  
+⚙ Backend: Node.js, Express  
+🗄 Database: MongoDB  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- News CMS Project
+- Portfolio Website
+- Full Stack Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: your@email.com
+- Portfolio: https://yourwebsite.com
+
+## 🌐 Connect With Me
+- LinkedIn: https://linkedin.com/in/yourprofile
